@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'messina';
+	src: url('font/MessinaSansWeb-Regular.eot');
+	src: url('font/MessinaSansWeb-Regular.eot?#iefix') format('embedded-opentype'),
+		 url('font/MessinaSansWeb-Regular.woff');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'messina';
+	src: url('font/MessinaSansWeb-Bold.eot');
+	src: url('font/MessinaSansWeb-Bold.eot?#iefix') format('embedded-opentype'),
+	url('font/MessinaSansWeb-Bold.woff');
+	font-weight: $bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'messina';
+	src: url('font/MessinaSansWeb-RegularItalic.eot');
+	src: url('font/MessinaSansWeb-RegularItalic.eot?#iefix') format('embedded-opentype'),
+	url('font/MessinaSansWeb-RegularItalic.woff');
+	font-weight: $regular;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'messina';
+	src: url('font/MessinaSans-BoldItalic.otf') format('opentype');
+	font-weight: $bold;
+	font-style: italic;
+}
